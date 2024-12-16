@@ -6,7 +6,10 @@ const about = () => {
   return (
     <div id='about' className='about'>
         <div className='about-title'>
-            <h1>About Me</h1>
+            <div className='header-container'>
+                <h1>About Me</h1>
+                <div className='underline'/>
+            </div>
         </div>
         <div className="about-sections">
             <div className="about-left">

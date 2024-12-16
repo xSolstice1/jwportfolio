@@ -105,6 +105,15 @@
     transform: scale(1.1);
     transition: 0.3s;
 }
+.underline {
+    margin: 2px auto 0;
+    width: 30%;
+    height: 3px;
+    background: linear-gradient(270deg, #00B0FF 80%, #29C7B5 100%);
+}
+.header-container {
+    text-align: center;
+}
 @media(max-width:768px){
     .contact{
         gap: 50px;

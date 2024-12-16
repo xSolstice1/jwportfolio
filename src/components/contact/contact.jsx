@@ -34,7 +34,10 @@ const contact = () => {
   return (
     <div id='contact' className='contact'>
         <div className='contact-title'>
-            <h1>Get in touch!</h1>
+            <div className='header-container'>
+                <h1>Get in touch!</h1>
+                <div className='underline'/>
+            </div>
         </div>
         <div className="contact-section">
             <div className="contact-left">
