@@ -1,10 +1,10 @@
 import React from 'react'
 import './Navbar.css'
-import logo from '../assets/logo.svg'
+import logo from '../assets/jwlogo.svg' 
 
 const Navbar = () => {
     return (
-        <div classname='navbar'>
+        <div className='navbar'>
             <img src={logo} alt=""/>
             <ul className="nav-menu">
                 <li>Home</li>
