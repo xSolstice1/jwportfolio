@@ -7,7 +7,7 @@ const profile = () => {
         <div className='profile' id='home'>
             <img src={profile_img} alt="JW"/>
             <h1><span>I'm Ang Jin Wei,</span> a Data Engineer / Aspiring Software Engineer based in Singapore.</h1>
-            <p>I am current a Data Engineer @ Luxoft, recently graduated with a Bachelors of Information Technology, majoring in Computer Science and Business Information Systems.</p>
+            <p>I am currently a Data Engineer @ Luxoft, recently graduated with a Bachelors of Information Technology, majoring in Computer Science and Business Information Systems.</p>
             <div className='profile-action'>
                 <div className="profile-connect">Connect with me</div>
                 <div className="profile-resume">Resume</div>
